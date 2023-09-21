@@ -28,13 +28,13 @@ a {
 .header h1 {
     margin: 0;
     font-weight: 600;
-    color: rgb(0, 0, 0);
+    color: black
 }
 
 .header p {
     margin: 0;
     font-weight: 400;
-    color: rgb(0, 0, 0);
+    color: black
 }
 
 
